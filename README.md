@@ -4,12 +4,7 @@
 
 **Your submission MUST include a `demo_video.txt` file containing a link to a video demo.**
 
-The video should show:
-- Your MCP server in action with an AI agent
-- Creating something interesting/creative in Blender using your tools
-- Brief walkthrough of your implementation
-
-This demonstrates that your tools actually work and can be used to build real 3D scenes.
+Your video should demonstrate your MCP server running live, with an AI agent actively interacting with Blender through the tools you've defined. Show the agent creating something in Blender—whether that's a 3D model, a scene with lighting and materials, or anything else that showcases your tools in action. We want to see the real-time interaction between the agent and Blender, not just a final render. After the demo, include a brief walkthrough of your implementation: explain your tool design choices, how you structured the code, and any interesting challenges you solved. The video doesn't need to be polished or edited—we just want to see that your tools actually work and understand your thought process behind the implementation.
 
 ---
 
